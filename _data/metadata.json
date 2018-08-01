@@ -3,9 +3,9 @@
   "url": "https://bgns.pkrasam.co/",
   "feed": {
     "subtitle": "Sharing Blockchain Global News Snapshot.",
-    "filename": "bgns.xml",
-    "path": "/feed/bgns.xml",
-    "url": "https://pkrasam.co/feed/bgns.xml",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://pkrasam.co/feed/feed.xml",
     "id": "https://pkrasam.co/"
   },
   "author": {
