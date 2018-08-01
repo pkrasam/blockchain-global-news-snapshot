@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Blockchain Global News Snapshot",
+  "url": "https://bgns.pkrasam.co/",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "subtitle": "Sharing Blockchain Global News Snapshot.",
+    "filename": "bgns.xml",
+    "path": "/feed/bgns.xml",
+    "url": "https://pkrasam.co/feed/bgns.xml",
+    "id": "https://pkrasam.co/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "pk",
+    "email": "pkrasam@gmail.com"
   }
 }
