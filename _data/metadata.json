@@ -1,8 +1,8 @@
 {
-  "title": "Blockchain Global News Snapshot",
-  "url": "https://bgns.pkrasam.co/",
+  "title": "Web3 News",
+  "url": "https://web3.pkrasam.co/",
   "feed": {
-    "subtitle": "Sharing Blockchain Global News Snapshot.",
+    "subtitle": "Sharing Web3 and Blockchain news.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://pkrasam.co/feed/feed.xml",
