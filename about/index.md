@@ -7,4 +7,4 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+Research Web3 and Crypto Machine Intelligence business models.
